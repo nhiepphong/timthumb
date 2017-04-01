@@ -1,0 +1,22 @@
+{
+    "name": "nhiepphong/timthumb",
+    "keywords": ["laravel", "image", "proxy", "resizer", "crop"],
+    "description": "An image proxy for Laravel",
+    "authors": [
+        {
+            "name": "Nhiep Phong",
+            "email": "duyphong.tran@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-0": {
+            "nhiepphong\\Timthumb": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
